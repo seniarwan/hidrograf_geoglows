@@ -25,7 +25,7 @@ ERA5 Hourly (S3 Zarr)
         ↓
    Annual Maximum Series (AMS)
         ↓
-   Frequency Analysis: LP3 / Gumbel / Log-Normal
+   Frequency Analysis: Log Pearson III / Gumbel / Log-Normal
         ↓
    Design Hydrograph (hourly, scaled)
         ↓
