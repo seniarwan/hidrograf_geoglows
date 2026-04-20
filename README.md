@@ -1,6 +1,6 @@
 # 🌊 GEOGLOWS Flood Hydrograph Analysis — DAS Randangan, Gorontalo
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/geoglows-randangan-flood/blob/main/notebooks/GEOGLOWS_Randangan_flood_analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BBrqA_mjc0CHlDZV-CAP-ZIt0bRqGEN1?usp=sharing)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Analisis hidrograf banjir 
