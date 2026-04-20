@@ -33,26 +33,6 @@ ERA5 Hourly (S3 Zarr)
    Export → HEC-RAS / LISFLODD-FP
 ```
 
-## 📁 Struktur Repo
-
-```
-hidrograf_geoglows/
-│
-├── notebooks/
-│   └── Analisis_Hidrograf_Banjir_GEOGLOWS.ipynb   # Notebook utama
-│
-├── data/
-│   └── output/                                    # Hasil export (gitignored)
-│       ├── hydrograph_T100.csv
-│       ├── HECRAS_T100.txt
-│       ├── debit_rancangan.csv
-│       └── hourly_all_events.csv
-│
-├── requirements.txt
-├── LICENSE
-└── README.md
-```
-
 ## 🚀 Cara Menggunakan
 
 ### 1. Jalankan di Google Colab (direkomendasikan)
