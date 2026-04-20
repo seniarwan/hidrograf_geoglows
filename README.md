@@ -60,11 +60,11 @@ Lihat `requirements.txt`. Dependensi utama:
 
 | File | Deskripsi |
 |---|---|
-| `hydrograph_T{T}_Randangan.csv` | Hidrograf desain per periode ulang (hourly) |
-| `HECRAS_T{T}_Randangan.txt` | Format input HEC-RAS |
-| `debit_rancangan_Randangan.csv` | Tabel debit rancangan semua T |
+| `hydrograph_T{T}.csv` | Hidrograf desain per periode ulang (hourly) |
+| `HECRAS_T{T}.txt` | Format input HEC-RAS |
+| `debit_rancangan.csv` | Tabel debit rancangan semua T |
 | `hourly_Event{N}_{date}.csv` | Data debit hourly per event historis |
-| `hourly_all_events_Randangan.csv` | Semua event dalam satu file (long format) |
+| `hourly_all_events.csv` | Semua event dalam satu file (long format) |
 
 ## 📚 Referensi
 
