@@ -30,23 +30,23 @@ ERA5 Hourly (S3 Zarr)
         ↓
    Design Hydrograph (hourly, scaled)
         ↓
-   Export → HEC-RAS / TUFLOW
+   Export → HEC-RAS / LISFLODD-FP
 ```
 
 ## 📁 Struktur Repo
 
 ```
-geoglows-randangan-flood/
+hidrograf_geoglows/
 │
 ├── notebooks/
-│   └── GEOGLOWS_Randangan_flood_analysis.ipynb   # Notebook utama
+│   └── Analisis_Hidrograf_Banjir_GEOGLOWS.ipynb   # Notebook utama
 │
 ├── data/
 │   └── output/                                    # Hasil export (gitignored)
-│       ├── hydrograph_T100_Randangan.csv
-│       ├── HECRAS_T100_Randangan.txt
-│       ├── debit_rancangan_Randangan.csv
-│       └── hourly_all_events_Randangan.csv
+│       ├── hydrograph_T100.csv
+│       ├── HECRAS_T100.txt
+│       ├── debit_rancangan.csv
+│       └── hourly_all_events.csv
 │
 ├── requirements.txt
 ├── LICENSE
